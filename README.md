@@ -130,14 +130,3 @@ Visualize model performance and feature importance.
 - Add interactive dashboards using Plotly or Streamlit  
 
 ---
-
-## 📬 Contact
-
-Created by [Your Name]  
-
-Connect on:
-
-- GitHub: https://github.com/yourusername  
-- Email: your.email@example.com  
-
-“Predict smart, lend smart.” 💳
